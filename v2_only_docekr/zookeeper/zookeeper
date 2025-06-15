@@ -1,0 +1,1 @@
+docker run -h zookeeper -p2180:2180 -name zookeeper wurstmeister/zookeeper
